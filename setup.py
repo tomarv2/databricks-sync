@@ -29,7 +29,7 @@ setuptools.setup(
         'SQLAlchemy==1.3.22',
         'styleframe==3.0.6',
         'dask==2.23.0',
-        'distributed==2.23.0',
+        'distributed==2021.10.0',
         'setuptools==45'
     ],
     package_data={'': ['export.yaml']},
