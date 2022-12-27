@@ -30,7 +30,7 @@ setuptools.setup(
         'styleframe==3.0.6',
         'dask==2.23.0',
         'distributed==2.23.0',
-        'setuptools==45'
+        'setuptools==65.5.1'
     ],
     package_data={'': ['export.yaml']},
     entry_points='''
